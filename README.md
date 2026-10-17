@@ -1,6 +1,6 @@
 # CloudNova Solutions: Ransomware Incident Response Playbook
 
-## ⚠️ Disclaimer
+##  Disclaimer
 **This playbook is for educational, training, and simulation purposes only.**  
 While based on realistic threat scenarios (Ransomware-as-a-Service), the specific incident involving "CloudNova Solutions" and "DarkCipher" is a fictional case study designed for cybersecurity training. Do not use this document as a standalone legal or operational guide for real-world incidents without customization by qualified security professionals.
 
